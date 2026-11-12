@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contato | Pequenos Encantos</title>
+<meta name="description" content="Escreva uma carta para a equipe da Pequenos Encantos e tire suas dúvidas.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Mountains+of+Christmas:wght@700&family=Nunito:wght@400;600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css?v=2">
+<link rel="stylesheet" href="css/responsivo.css?v=2">
+</head>
+<body data-pagina="contato">
+<main id="conteudo">
+<section class="page-hero">
+  <span class="orn o1" aria-hidden="true"></span><span class="orn o2" aria-hidden="true"></span><span class="orn o3" aria-hidden="true"></span><span class="orn o4" aria-hidden="true"></span>
+  <div class="container"><span class="kicker"> Fale conosco </span><h1>Escreva uma carta para o Papai Noel</h1><p>Nossos elfos respondem suas dúvidas em até 1 dia útil.</p></div>
+</section>
+<div class="ticker" aria-hidden="true"><div> 🎁 Ho ho ho!🎀 Feliz Natal natal 🎁​ Presentes que encantam natal 🎀  Magia em cada brinquedo natal 🎁​  Ho ho ho!🎀 Feliz Natal natal 🎁​ Presentes que encantam natal 🎀  Magia em cada brinquedo natal 🎁​ Boas Festas! </div></div>
+<section class="container section contato-grid">
+  <form id="carta" class="carta" novalidate>
+    <h2> Sua carta</h2>
+    <label for="nome">Seu nome</label><input id="nome" name="nome" required>
+    <label for="email">E-mail</label><input id="email" name="email" type="email" required>
+    <label for="assunto">Assunto</label>
+    <select id="assunto" name="assunto"><option>Dúvida sobre pedido</option><option>Troca ou devolução</option><option>Sugestão de brinquedo</option><option>Outro assunto</option></select>
+    <label for="mensagem">Mensagem</label><textarea id="mensagem" name="mensagem" rows="5" required></textarea>
+    <button class="btn-natal" type="submit">Enviar carta </button>
+    <p id="carta-msg" role="status"></p>
+  </form>
+  <aside>
+    <div class="info"><h3> Atendimento</h3><p>contato@pequenosencantos.com.br<br>Seg a sáb, 9h às 18h</p></div>
+    <h3 class="faq-t">Perguntas frequentes</h3>
+    <details><summary>Até quando posso comprar para o Natal?</summary><p>Pedidos feitos até 18/12 chegam até 24/12.</p></details>
+    <details><summary>Vocês embrulham para presente?</summary><p>Sim, com papel natalino e laço dourado, sem custo.</p></details>
+    <details><summary>Posso trocar um brinquedo?</summary><p>Você tem 30 dias para trocar, com a embalagem original.</p></details>
+    <details><summary>Quais formas de pagamento?</summary><p>Cartão em até 6x sem juros e Pix com 5% de desconto.</p></details>
+  </aside>
+</section>
+</main>
+<script src="js/produtos.js?v=2"></script>
+<script src="js/script.js?v=2"></script>
+<script src="js/musica.js?v=2"></script>
+</body>
+</html>

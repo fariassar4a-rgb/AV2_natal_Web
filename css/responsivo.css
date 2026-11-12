@@ -1,0 +1,15 @@
+@media (max-width:900px){
+  .hero{grid-template-columns:1fr;text-align:center;padding-top:2.5rem}
+  .hero p{margin-inline:auto}.hero-actions{justify-content:center}
+  .perks{grid-template-columns:1fr}
+}
+@media (max-width:720px){
+  .nav-links{display:none}
+  .navbar{justify-content:space-between}
+}
+@media (max-width:900px){.hero{min-height:0;padding-bottom:9rem}.moon{width:60px;height:60px;top:60px}.sleigh{font-size:2.2rem}}
+@media (max-width:600px){.trees{height:200px}}
+@media (max-width:900px){
+  .hero{background:linear-gradient(180deg,rgba(40,8,10,.8) 0,rgba(40,8,10,.35) 55%,rgba(40,8,10,.1) 100%),var(--foto) 45% bottom/cover no-repeat;padding-top:3rem}
+  .wreath-wrap{justify-self:center;margin-bottom:0;width:min(300px,100%)}
+}
