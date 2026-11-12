@@ -8,9 +8,9 @@ INTEGRANTES:
 - Sarah Cominatto
 
 LINKS:
-Site (GitHub Pages): https://fariassar4a-rgb.github.io/AV2_natal_Web/
-Repositório (GitHub): https://github.com/fariassar4a-rgb/Loja_NatalinaAV2
-Vídeo (YouTube): https://www.youtube.com/watch?v=...
+  Site (GitHub Pages): https://fariassar4a-rgb.github.io/AV2_natal_Web/
+  Repositório (GitHub): https://github.com/fariassar4a-rgb/Loja_NatalinaAV2
+  Vídeo (YouTube): https://www.youtube.com/watch?v=...
 
 RECURSOS DE JAVASCRIPT IMPLEMENTADOS:
 1. Slideshow - index.html
