@@ -9,7 +9,7 @@ INTEGRANTES:
 
 LINKS:
   Site (GitHub Pages): https://fariassar4a-rgb.github.io/AV2_natal_Web/
-  Repositório (GitHub): [https://github.com/fariassar4a-rgb/Loja_NatalinaAV2](https://github.com/fariassar4a-rgb/AV2_natal_Web/tree/main)
+  Repositório (GitHub): (https://github.com/fariassar4a-rgb/AV2_natal_Web/tree/main)
   Vídeo (YouTube): https://www.youtube.com/watch?v=...
 
 RECURSOS DE JAVASCRIPT IMPLEMENTADOS:
