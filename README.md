@@ -4,13 +4,13 @@ SEGMENTO: Brinquedos natalinos
 TURMA: 1TIB
 INTEGRANTES:
 - Sara Guimarães Farias
-- Julia Freire
+- Julia Freire (Saiu do grupo)
 - Sarah Cominatto
 
 LINKS:
   Site (GitHub Pages): https://fariassar4a-rgb.github.io/AV2_natal_Web/
   Repositório (GitHub): https://github.com/fariassar4a-rgb/AV2_natal_Web/tree/main
-  Vídeo (YouTube): https://www.youtube.com/watch?v=...
+  Vídeo (YouTube): https://youtu.be/8HgjS64SjH8 Prof, estava tudo combinado para a julia mandar a parte dela, mas houve imprevistos e ela nao conseguiu mandar a parte dela... Eu ia gravar agora (23:20) porque como ela saiu eu tenho a responsabilidade de gravar a parte dela, porém, meu computador é muito antigo e  esta me dando trabalho. Entao, nao conseguimos gravar a parte do CSS que era para ser a parte de Julia e nem o script.js . Eu sei que deveriamos ter nos antecipados para nao ocorrer imprevistos, mas infelizmente aconteceu. Desculpe, e espero que isso nao penalize de forma signifcativa, pois deu muito trabalho desenvolver essesite (mesmo com as ferramentas de IA disponiveis). Ah, e só me explicando, eu gravei a minha parte junto com a Sarah justamente porque meu pc é muito ruim... Eu nao consegui editar o video muito bem, apenas juntei todas as partes e, no meio do video está a apesentação ;)
 
 RECURSOS DE JAVASCRIPT IMPLEMENTADOS:
 1. Slideshow - index.html
